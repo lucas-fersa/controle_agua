@@ -1,5 +1,5 @@
 # Controle de nível de água em um reservatório
-# Autor: Lucas Fersa (Revisado pelo Professor)
+# Autor: Lucas Fersa
 
 # Bibliotecas
 from colorama import Fore, Style, init
